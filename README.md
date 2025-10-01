@@ -16,30 +16,23 @@ Specialists can review images one by one, assign labels, and then download the o
 ## 📦 Installation
 
 1. **Clone this repository** (or copy the script):
-   ```bash
+   
    git clone <repo-url>
    cd <repo-folder>
-````
+
 
 2. **Create a virtual environment** (recommended):
 
-   ```bash
+   
    python -m venv venv
    source venv/bin/activate   # On Linux/Mac
    venv\Scripts\activate      # On Windows
-   ```
+   
 
 3. **Install required packages**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   Or install manually:
-
-   ```bash
+   
    pip install streamlit pillow numpy opencv-python
-   ```
+   
 
 ---
 
@@ -47,9 +40,9 @@ Specialists can review images one by one, assign labels, and then download the o
 
 From the project folder, run:
 
-```bash
+
 streamlit run seismic_app.py
-```
+
 
 Then open the link shown in the terminal (usually `http://localhost:8501`) in your browser.
 
