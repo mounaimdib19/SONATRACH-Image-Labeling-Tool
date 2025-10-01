@@ -26,10 +26,11 @@ Specialists can review images one by one, assign labels, and then download the o
    
    python -m venv venv
    source venv/bin/activate   # On Linux/Mac
+   
    venv\Scripts\activate      # On Windows
    
 
-3. **Install required packages**:
+4. **Install required packages**:
    
    pip install streamlit pillow numpy opencv-python
    
