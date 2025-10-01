@@ -62,7 +62,4 @@ Then open the link shown in the terminal (usually `http://localhost:8501`) in yo
   * **Clean images** → downloadable as `clean_images_YYYYMMDD_HHMMSS.zip`
   * **Noisy images** → downloadable as `noisy_images_YYYYMMDD_HHMMSS.zip`
 
----
 
-Do you want me to also **generate the `requirements.txt` file** for you so you can run `pip install -r requirements.txt` directly?
-```
